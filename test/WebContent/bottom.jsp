@@ -3,5 +3,5 @@
 
     
     <footer>
-    	<p>푸터 에휴</p>
+    	<p>푸터 에휴a</p>
     </footer>
